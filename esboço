@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="#" type="image/x-icon">
+    <title>Pathy Glamour</title>
+</head>
+<body>
+    <header>
+        <div class="logo-marca">
+            <a href="#">                
+                <img src="#" alt="Imagem da logo marca">
+            </a>
+        </div>
+        
+        <nav class="navbar">            
+            <div class="searchbar">
+                <input type="search" placeholder="Pesquisar">
+                <div class="searchicon">
+                    <a href="#">
+                        <img src="/Site/imagem/search.png" alt="Icone de pesquisa">
+                    </a>
+                </div>
+            </div>
+
+    <!--Seção java para black e white--> 
+            <div class="color-mode">
+                <a href="">
+                    <img src="/Site/imagem/contrast.png" alt="Botão de contraste">
+                </a>
+            </div> 
+    <!--Seção java para black e white-->
+            
+            <div class="profile">
+                <a href="#">                
+                    <img src="#" alt="Icone de perfil">
+                </a>
+            </div>
+            
+            <div class="shopcart">
+                <a href="#">
+                    <img src="/Site/imagem/shopping cart.png" alt="Carrinho de compras">
+                </a>
+            </div>
+        </nav>
+        
+    </header>
+
+    <section class="capa">
+        <div class="capa-img">
+            <img src="/Site/imagem/Banner.png" alt="Banner do site">
+        </div>
+    </section>
+
+    <section class="container">
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+        
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="box-img">                
+                <img src="#" alt="imagem da roupa de grife">
+            </div>
+            <div class="title">
+                <h2>Roupa havaiana</h2>
+            </div>
+            <div class="description">
+                <p>Descrição</p>
+                <p>Preço</p>
+            </div>
+        </div>
+
+    </section>
+
+    <footer>
+
+        <div class="social-text">
+            <h2>Contato</h2>
+        </div>
+
+        <div class="social-area">
+            <div class="social-icon">
+                <img src="#" alt="icone do email">
+            </div>
+            <div class="social-icon">
+                <img src="#" alt="icone do instagram">
+            </div>
+            <div class="social-icon">
+                <img src="#" alt="icone do whatsapp">
+            </div>
+        </div>
+
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
